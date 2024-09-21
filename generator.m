@@ -12,7 +12,7 @@ f3 = 0;%440;
 
 A = 10; %Амплитуда
 
-noseLev = 0.5; %уровень шума
+noseLev = 0.5; %СКО шума
 
 signal1 = A*cos(2*pi*f1*t);
 signal2 = A*cos(2*pi*f2*t);
